@@ -1,4 +1,4 @@
-export const users = [{
+const users = [{
     id: 1,
     email: "george.bluth@reqres.in",
     first_name: "George",
@@ -82,3 +82,5 @@ export const users = [{
         last_name: "Howell",
         avatar: "https://reqres.in/img/faces/12-image.jpg"
     }]
+
+    export default users;
